@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! version- 1.0" );
+        System.out.println( "Hello World! __version__ - 1.0" );
     }
 }
